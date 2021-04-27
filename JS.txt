@@ -1,0 +1,11 @@
+trong 1 phương thức this tham chiếu đến đối tượng chủ sở hữu
+1 mình this tham chiếu đến đối tượng toàn cục
+trong 1 hàm this tham chiếu đến đối thượng toàn cục
+trong 1 function trong chế độ use strict this là underfined
+trong 1 sự kiện thí đề cập đến phần tử đã nhận sự kiện
+ json.parse(text)
+
+ arrys json
+"employees":[{"fristname":"a","lastname":"b"},
+{"fristname":"ds","lastname":"das"}
+{"fristname":"da","lastname":"sd"}]
